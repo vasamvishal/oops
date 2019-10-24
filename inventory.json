@@ -1,0 +1,53 @@
+{
+    "rice": [
+        {
+            "name": "basmati",
+            "weight": 1,
+            "price": 100
+        },
+        {
+            "name": "madhur",
+            "weight": 1,
+            "price": 200
+        },
+        {
+            "name": "gokul",
+            "weight": 1,
+            "price": 50
+        }
+    ],
+    "wheat": [
+        {
+            "name": "gold",
+            "weight": 1,
+            "price": 80
+        },
+        {
+            "name": "silvercoin",
+            "weight": 1,
+            "price": 90
+        },
+        {
+            "name": "brownwheat",
+            "weight": 1,
+            "price": 80
+        }
+    ],
+    "pulses": [
+        {
+            "name": "dal",
+            "weight": 1,
+            "price": 70
+        },
+        {
+            "name": "lentils",
+            "weight": 1,
+            "price": 80
+        },
+        {
+            "name": "peas",
+            "weight": 1,
+            "price": 90
+        }
+    ]
+}
